@@ -36,10 +36,10 @@
   "homepage": "https://github.com/jgraph/drawio",
   "dependencies": {
     "@cantoo/pdf-lib": "^2.6.1",
+    "buffer": "^6.0.3",
     "commander": "^13.1.0",
     "compression": "^1.8.1",
     "crc": "^4.3.2",
-    "buffer": "^6.0.3",
     "electron-context-menu": "^4.1.1",
     "electron-log": "^5.4.3",
     "electron-progressbar": "^2.2.1",
@@ -53,6 +53,7 @@
     "dotenv": "^16.6.1",
     "electron": "^39.6.1",
     "electron-builder": "^26.8.1",
+    "quicklookjs": "^1.0.1",
     "sumchecker": "^3.0.1"
   }
 }
